@@ -172,7 +172,7 @@ const Index = () => {
               <div className="w-10 h-10 bg-gradient-to-r from-messenger-coral to-messenger-turquoise rounded-full flex items-center justify-center">
                 <Icon name="MessageCircle" className="w-6 h-6 text-white" />
               </div>
-              <h1 className="text-2xl font-bold text-gray-800">Поехали Мессенджер</h1>
+              <h1 className="text-2xl font-bold text-gray-800">NikMessenger</h1>
             </div>
             <div className="flex items-center space-x-2">
               <Button variant="outline" size="sm">
